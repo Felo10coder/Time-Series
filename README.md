@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>CUSTOMER CHURN PREDICTION</b></h1>
+  <h1><b>SALES FORECAST</b></h1>
 </div>
 
 
